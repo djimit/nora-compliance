@@ -1,0 +1,8 @@
+{
+  "name": "nora-compliance",
+  "description": "NORA (Nederlandse Overheid Referentie Architectuur) compliance checker. Toetst architecturen, projecten en systemen aan de 10 NORA-basisprincipes en 40 afgeleide principes. Bevat dochterarchitecturen (GEMMA, PETRA, WILMA, RORA), architectuurprincipes, en 'pas toe of leg uit'-validatie.",
+  "version": "0.1.0",
+  "author": { "name": "Dennis Landman", "email": "dennis@djimit.nl" },
+  "license": "MIT",
+  "keywords": ["NORA", "referentie-architectuur", "overheidsarchitectuur", "GEMMA", "PETRA", "WILMA", "RORA", "pas-toe-of-leg-uit", "architectuurprincipes", "interoperabiliteit", "overheid"]
+}
